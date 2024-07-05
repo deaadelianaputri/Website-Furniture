@@ -1,0 +1,39 @@
+/* Navbar start */
+.navbar{
+    background: #A67B5B;
+}
+
+.container, .customize-form {
+    width: auto;
+    padding: 10px;
+    margin: 0px auto;
+    text-align: center;
+   
+}
+
+.customize-form .form-control, .customize-form .form-select {
+    width: 100%;
+}
+
+.customize-form .btn {
+    width: 100%;
+}
+
+.custom-search-button {
+    background-color: #6F4E37;
+    color: white;
+    
+}
+
+.col-6 {
+    margin-top: 50px;
+}
+
+.custom-search-button:hover {
+    background-color: goldenrod;
+}
+
+/* footer */
+Footer{
+    background: #A67B5B;
+}

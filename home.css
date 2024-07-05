@@ -1,0 +1,50 @@
+/* Navbar start */
+.navbar {
+    background: #A67B5B;
+}
+.custom-search-button1 {
+    background-color: #6F4E37;
+    color: white;
+}
+
+/* Component Carousel start */
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+/* Component Carousel start */
+.carousel-item img {
+    width: auto;
+    height: 100%;
+}
+
+/* component carousel */
+.custom-search-button {
+    background-color: darkgoldenrod;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.custom-search-button:hover {
+    background-color: goldenrod;
+}
+
+/* First Layout card Start */
+.custom-search-button2 {
+    width: 100px;
+    height: 30px;
+    background: transparent;
+    border: 1px solid black;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.custom-search-button2:hover {
+    background-color: #ddd;
+}
+
+/* Footer */
+footer {
+    background: #A67B5B;
+}
